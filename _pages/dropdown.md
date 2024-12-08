@@ -5,10 +5,10 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: fotografias
+  - title: biblioteca
     permalink: /publications/
   - title: divider
-  - title: livros
+  - title: fotografias
     permalink: /projects/
   - title: divider
   - title: blog
