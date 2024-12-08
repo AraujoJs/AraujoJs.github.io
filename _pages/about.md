@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: sobre
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>O que eu faço?</a> Localização. Contatos. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📍 Grenoble, France</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Sou estudante de Engenharia de Redes na Grenoble Alpes University, fotógrafo, programador, leitor e cozinheiro. Neste espaço, você encontra o que ando estudando. Curte tecnologia? Então você está no lugar certo! Publico artigos todas as semanas sobre: <a href="#">hacking</a>, <a href="#">programação</a> (baixo e alto nível), <a href="#">redes</a> e <a href="#">arquitetura de computadores</a>, resenhas de <a href="#">livros</a> e o que mais vier à cabeça!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Aqui você também pode acompanhar alguns dos meus projetos pessoais, tanto os que já desenvolvi quanto os que estou criando atualmente.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Encontre links para minhas redes sociais abaixo. Me adicione no X, LinkedIn, GitHub, Instagram, Discord, ou se inscreva no meu canal no <a href="https://www.youtube.com/@joseAraujoDev" target="_blank">YouTube</a>. Você também pode ler meus artigos no Medium.
